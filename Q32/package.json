@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-pdf": "^6.7.5",
+    "react-native-view-shot": "^3.8.0"
+  }
+}
